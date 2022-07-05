@@ -34,7 +34,7 @@ class Translation:
         "getting the APP ID from my.telegram.org\n"
         "if you do not trust this bot dev, "
         "please host this bot yourself\n"
-        "by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and "
+        "by opening https://github.com/KGN-BOTS/MyTelegramOrgRoBot and "
         "clicking on the Pink Button\n\n"
 
         "/start at any stage to re-enter your details"
